@@ -11,6 +11,6 @@
     </style>
 </head>
 <body>
-    <p> Funciona! </p>
+    <p> Tudo funciona! </p>
 </body>
 </html>
