@@ -6,12 +6,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="/resouces/css/app.css">
 
-    <title> Calc </title>
+    <title>Equality</title>
     <style>
     </style>
 </head>
 <body>
-    <h1> Calculadora </h1>
-    <p> <?= $valor1. " + ". $valor2. " = ". $soma?> </p>
+    <h2> Issue a call</h2>
+    <p><?= $type?></p>
+    <button type> Alert </button>
 </body>
 </html>
