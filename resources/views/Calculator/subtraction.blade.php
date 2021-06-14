@@ -6,11 +6,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="/resouces/css/app.css">
 
-    <title>Home</title>
+    <title> Calc </title>
     <style>
     </style>
 </head>
 <body>
-    <h1> Home </h1>
+    <h1> Calculadora </h1>
+    <p> <?= $valor1. " - ". $valor2. " = ". $subtracao?> </p>
 </body>
 </html>
